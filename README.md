@@ -1,6 +1,6 @@
 # SubtitlePlugin
 
-Developed with Unreal Engine 5.1.1. Has not been tested with other versions but should be compatible with all Unreal Engine 5 versions as long as built from source.
+Developed with Unreal Engine 5.1.1. Can be ported to newer versions with minor (if any) changes.
 
 Plugin allows unreal's built in subtitles to be exposed to blueprints. This is mainly to show subtitles through your own widget, allowing for better customizability like text color, size and changing the font in runtime.
 
